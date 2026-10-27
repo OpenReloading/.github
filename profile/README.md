@@ -1,12 +1,7 @@
 # OpenReloading
 
-Open software and hardware for people who reload their own ammunition: plan and simulate loads, and automate the bench. Everything is published for anyone to use, build and change.
+[![Open source](https://img.shields.io/badge/open%20source-free%20forever-3da639?logo=opensourceinitiative&logoColor=white)](https://opensource.org/osd)
+[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ESchuderer)
+[![Discord](https://img.shields.io/badge/Discord-join-5865F2?logo=discord&logoColor=white)](https://discord.gg/hUCSjDYNaa)
 
-- [Ballistics](https://github.com/OpenReloading/Ballistics): cartridges, bullets and powders with interior and exterior ballistics simulations. It estimates the pressure and muzzle velocity of a load, the trajectory, chronograph statistics and shot groups, and every record names its sources.
-- [BuildGuide](https://github.com/OpenReloading/BuildGuide): interactive build guides for your own documentation pages, with a parts checklist and wiring and tubing boards you tick off.
-- [AutoLever](https://github.com/OpenReloading/AutoLever): a pneumatic drive for the Lee APP press on 24 V DC relay logic, with a build guide. Pre-release.
-- [Feeder](https://github.com/OpenReloading/Feeder): a parametric brass and bullet collator generated in code. Early development.
-
-Results are simulations, not load data. Start from the load data your component makers publish.
-
-Questions and ideas: [Discord](https://discord.gg/KkYJ5fdukR). Support the work: [GitHub Sponsors](https://github.com/sponsors/ESchuderer).
+Open-source software for sport shooters, hunters and reloaders. Free forever, for anyone to use, build and change.
