@@ -1,6 +1,6 @@
 # Security policy
 
-This policy applies to every OpenReloading repository without a `SECURITY.md` of its own.
+This policy applies to every RangeFoundry repository without a `SECURITY.md` of its own.
 
 ## Supported versions
 
