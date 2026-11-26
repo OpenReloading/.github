@@ -1,0 +1,16 @@
+name: Question or docs gap
+description: A question about using a project, or something its documentation does not explain.
+labels: [question]
+body:
+  - type: textarea
+    id: plain
+    attributes:
+      label: In plain words
+      description: Your question, or what the documentation leaves open, said so that someone who does not know the code understands it.
+    validations:
+      required: true
+  - type: textarea
+    id: looked
+    attributes:
+      label: Where you looked
+      description: The pages or files you read and what you tried, with links.
